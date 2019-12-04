@@ -15,8 +15,8 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/havoc_judyln.mk
+    $(LOCAL_DIR)/aosp_judyln.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_judyln-userdebug \
-    havoc_judyln-eng
+    aosp_judyln-userdebug \
+    aosp_judyln-eng
